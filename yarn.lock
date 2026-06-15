@@ -5118,7 +5118,7 @@ __metadata:
   resolution: "example@workspace:example"
   dependencies:
     "@vitejs/plugin-react": "npm:^4.2.1"
-    griffith: "npm:^1.32.0"
+    griffith: "npm:^1.33.0"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
     react-router-dom: "npm:^6.22.3"
@@ -5888,7 +5888,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "griffith-standalone@workspace:packages/griffith-standalone"
   dependencies:
-    griffith: "npm:^1.32.0"
+    griffith: "npm:^1.33.0"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
   languageName: unknown
@@ -5900,7 +5900,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"griffith@npm:^1.32.0, griffith@workspace:packages/griffith":
+"griffith@npm:^1.33.0, griffith@workspace:packages/griffith":
   version: 0.0.0-use.local
   resolution: "griffith@workspace:packages/griffith"
   dependencies:

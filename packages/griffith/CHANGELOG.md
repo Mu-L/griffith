@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.33.0](https://github.com/zhihu/griffith/compare/v1.32.0...v1.33.0) (2026-06-15)
+
+
+### Features
+
+* **griffith:** support customPlayer, customHeaders and cover-loaded play gate ([#309](https://github.com/zhihu/griffith/issues/309)) ([cbeab5a](https://github.com/zhihu/griffith/commit/cbeab5ae2fb528904c05b93d2dc3ed95509abf5e))
+
+
+
+
+
 # [1.32.0](https://github.com/zhihu/griffith/compare/v1.31.0...v1.32.0) (2025-05-20)
 
 
